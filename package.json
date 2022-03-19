@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/wordcount",
+  "repository": "https://github.com/hakonhagland/inkdrop-wordcount.git",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
