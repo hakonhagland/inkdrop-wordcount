@@ -1,0 +1,1 @@
+# Simple wordcount plugin example
